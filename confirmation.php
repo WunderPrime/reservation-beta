@@ -14,6 +14,6 @@ $email = $_GET['email'] ?? '';
     <?php else: ?>
         <p class="message">Votre réservation a été enregistrée.</p>
     <?php endif; ?>
-    <a href="réservation.php">Retour au formulaire</a>
+    <a href="index.php">Retour au formulaire</a>
 </body>
 </html>
