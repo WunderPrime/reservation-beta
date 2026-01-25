@@ -41,6 +41,6 @@ session_start();
     <?php else: ?>
         <p style="color: red;">Aucune réservation pour le moment.</p>
     <?php endif; ?>
-    <p><a href="réservation.php">Ajouter une nouvelle réservation</a></p>
+    <p><a href="index.php">Ajouter une nouvelle réservation</a></p>
 </body>
 </html>
