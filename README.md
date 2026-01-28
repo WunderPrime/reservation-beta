@@ -14,12 +14,6 @@ Un projet PHP/MySQL complet pour gérer les réservations d’un restaurant avec
 
 ---
 
-## Base de données
-La base de données n’est pas fournie pour des raisons pédagogiques.
-Créer manuellement les tables selon les besoins du projet.
-
----
-
 ## Technologies utilisées
 
 - PHP 8+
