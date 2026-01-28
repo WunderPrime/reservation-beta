@@ -4,8 +4,8 @@
 -- ==========================================
 
 -- 1️⃣ Création de la base de données
-CREATE DATABASE IF NOT EXISTS restaurant CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE restaurant;
+CREATE DATABASE IF NOT EXISTS reservation CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE reservation;
 
 -- 2️⃣ Table des réservations
 CREATE TABLE IF NOT EXISTS reservation (
@@ -27,3 +27,4 @@ VALUES
 
 -- 4️⃣ Vérifier les données
 SELECT * FROM reservation;
+
